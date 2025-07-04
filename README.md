@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to my Github profile! I'm a backend developer who loves creating impactful and innovative projects. 
+I like to follow people with good projects but little followers.
+
+
+## 🙍‍♂️ About Me
+
 <!--
 **nmap-ninja/nmap-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
