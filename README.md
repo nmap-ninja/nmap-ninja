@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanat Ali</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-
-- 🌱 I’m currently learning **Flask**
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
